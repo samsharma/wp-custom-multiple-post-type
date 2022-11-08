@@ -1,0 +1,1 @@
+# wp-custom-multiple-post-type
